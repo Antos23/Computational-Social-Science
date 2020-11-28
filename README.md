@@ -1,4 +1,4 @@
-# Computational-Social-Science
+# Tweeting about #AOC
 <i>Computational Social Science Final Project (MSc Data Science) </i>
 \
 <i>Author: Antonia Donvito </i>
