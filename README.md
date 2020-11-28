@@ -23,4 +23,4 @@ I decided to investigate what people tweet about <b>Alexandria-Ocasio Cortez</b>
 - R2) What words are linked together in terms of co-occurrences? 
 - R3) What are the main topics of the tweets?
 
-<i>N.B.: the analysis was carried out before the latest American election. </i>
+<i>NB: the analysis was carried out before the latest American election. </i>
