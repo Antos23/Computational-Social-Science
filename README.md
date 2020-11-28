@@ -6,7 +6,7 @@
 <i>Date: September 2020</i>
 
 This repository contains the project that I realized for the Computational Social Science course within the Master's programme in Data Science at the University of Trento. You can find:
-- Analysis.ipynb (the code)
+- Analysis.ipynb (the Python code)
 - Tweeting about #AOC.pdf (the report)
 
 ## Assignment 
