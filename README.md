@@ -10,7 +10,7 @@ This repository contains the project that I realized for the Computational Socia
 - Tweeting about #AOC.pdf (the report)
 
 ## Assignment 
-Assignment DetailsResearch project.The aim of this assignment is that you develop a research projectfor a hypothetical study. You ought to discuss one method of those you have seen during the lectures (e.g. online interviews, online survey, opinion mining, social network analysis, etc.) in its potential advantages and disadvantages. Remember, you need to provide some details about how you are going to use the method. Be aware that you have a word limitation of max 3,000 words so use the space wisely. 
+<i> Assignment Details </i>.The aim of this assignment is that you develop a research projectfor a hypothetical study. You ought to discuss one method of those you have seen during the lectures (e.g. online interviews, online survey, opinion mining, social network analysis, etc.) in its potential advantages and disadvantages. Remember, you need to provide some details about how you are going to use the method. Be aware that you have a word limitation of max 3,000 words so use the space wisely. 
 What the methodology section should contain:
 - The data that you want to use and a description of the dataset
 - The analytical strategy that you want to employ, which technique (PCA, Cluster analysis, Decision Trees, Text mining -topic modelling)
