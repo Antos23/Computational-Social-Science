@@ -1,5 +1,5 @@
 # Computational-Social-Science
-<i>Computational Social Science Final Project(MSc Data Science) </i>
+<i>Computational Social Science Final Project (MSc Data Science) </i>
 \
 <i>Author: Antonia Donvito </i>
 \
