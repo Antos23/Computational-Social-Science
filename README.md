@@ -22,3 +22,5 @@ I decided to investigate what people tweet about <b>Alexandria-Ocasio Cortez</b>
 - R1) What are the most common words of the tweets related to Alexandria Ocasio-Cortez? 
 - R2) What words are linked together in terms of co-occurrences? 
 - R3) What are the main topics of the tweets?
+
+<i>N.B.: the analysis was carried out before the latest American election. </i>
