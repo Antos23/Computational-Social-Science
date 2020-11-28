@@ -1,5 +1,9 @@
 # Computational-Social-Science
-Final Project Computational Social Science (MSc Data Science)
+<i>Computational Social Science Final Project(MSc Data Science) </i>
+\
+<i>Author: Antonia Donvito </i>
+\
+<i>Date: September 2020</i>
 
 This repository contains the project that I realized for the Computational Social Science course within the Master's programme in Data Science at the University of Trento. You can find:
 - Analysis.ipynb (the code)
@@ -14,4 +18,4 @@ What the methodology section should contain:
 -The interpretation of results.
 
 ## The project
-I decided to investigate what people tweet about Alexandria-Ocasio Cortez.
+I decided to investigate what people tweet about <b>Alexandria-Ocasio Cortez</b>.
