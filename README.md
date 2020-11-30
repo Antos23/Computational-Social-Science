@@ -6,8 +6,11 @@
 <i>Date: September 2020</i>
 
 This repository contains the project that I realized for the Computational Social Science course within the Master's programme in Data Science at the University of Trento. The course was taught by Professor Giuseppe Veltri. You can find:
-- Analysis.ipynb (the Python code)
+- Analysis.ipynb (a jupyter notebook for the analysis)
 - Tweeting about #AOC.pdf (the report)
+- data_collection.ipynb (a jupyter notebook for the tweets collection)
+
+In addition, the folder data contains part of the data being used.
 
 ## Assignment 
 <i> Assignment Details </i>. The aim of this assignment is that you develop a research project for a hypothetical study. You ought to discuss one method of those you have seen during the lectures (e.g. online interviews, online survey, opinion mining, social network analysis, etc.) in its potential advantages and disadvantages. Remember, you need to provide some details about how you are going to use the method. Be aware that you have a word limitation of max 3,000 words so use the space wisely. 
