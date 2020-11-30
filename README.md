@@ -5,7 +5,7 @@
 \
 <b>Title</b>: <i>Tweeting about #AOC</i>
 \
-<b>Date</b>: <i>September 2020</i>
+<b>Submisison Date</b>: <i>September 2020</i>
 
 This repository contains the project that I realized for the Computational Social Science course within the Master's programme in Data Science at the University of Trento. The course was taught by Professor Giuseppe Veltri. You can find:
 - Analysis.ipynb (a jupyter notebook for the analysis)
