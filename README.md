@@ -9,6 +9,7 @@ This repository contains the project that I realized for the Computational Socia
 - Analysis.ipynb (a jupyter notebook for the analysis)
 - Tweeting about #AOC.pdf (the report)
 - data_collection.ipynb (a jupyter notebook for the tweets collection)
+- topic_modelling.html (to visualize the topics extracted through topic modelling)
 
 In addition, the folder data contains part of the data being used.
 
@@ -21,7 +22,7 @@ What the methodology section should contain:
 -The interpretation of results.
 
 ## The project
-I decided to investigate what people tweet about <b>Alexandria-Ocasio Cortez</b>, one of the most famous congresswomen in the US. I provide an exploratory analysis of the contents of tweets that mention her, to illustrate what topics Twitter users link to her and whom and what they connect her with. To find such connections, I first look for the most common words. Then I focus on the most popular bigrams and trigrams. Finally, I conduct a topic modelling analysis, which is a method to identify the main theme covered by a large collection of documents. To do so, I rely on the most popular algorithm for topic modelling, Latent Dirichlet Allocation (LDA). To sum up, this project intends to answer the following questions: 
+I decided to investigate what people tweet about <b>Alexandria-Ocasio Cortez</b>, one of the most famous congresswomen in the US. I provide an exploratory analysis of the contents of tweets that mention her, to illustrate what topics Twitter users link to her and whom and what they connect her with. To find such connections, I first look for the most common words. Then I focus on the most popular bigrams and trigrams. Finally, I conduct a topic modelling analysis, which is a method to identify the main theme covered by a large collection of documents. To do so, I rely on the most popular algorithm for topic modelling, namely Latent Dirichlet Allocation (LDA). To sum up, this project intends to answer the following questions: 
 - R1) What are the most common words of the tweets related to Alexandria Ocasio-Cortez? 
 - R2) What words are linked together in terms of co-occurrences? 
 - R3) What are the main topics of the tweets?
