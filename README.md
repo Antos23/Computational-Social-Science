@@ -1,9 +1,9 @@
 # Tweeting about #AOC
-<i>Computational Social Science Final Project 
- \
-(MSc Data Science - University of Trento) </i>
+<i>Computational Social Science Final Project (MSc Data Science - University of Trento) </i>
 \
 <b>Author</b>: <i>Antonia Donvito </i>
+\
+<b>Title</b>: <i>Tweeting about #AOC</i>
 \
 <b>Date</b>: <i>September 2020</i>
 
